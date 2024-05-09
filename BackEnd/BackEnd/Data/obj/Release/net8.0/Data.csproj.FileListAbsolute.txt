@@ -1,0 +1,14 @@
+C:\proyectos\New folder (2)\BackEnd\Data\bin\Release\net8.0\Data.deps.json
+C:\proyectos\New folder (2)\BackEnd\Data\bin\Release\net8.0\Data.runtimeconfig.json
+C:\proyectos\New folder (2)\BackEnd\Data\bin\Release\net8.0\Data.dll
+C:\proyectos\New folder (2)\BackEnd\Data\bin\Release\net8.0\Data.pdb
+C:\proyectos\New folder (2)\BackEnd\Data\obj\Release\net8.0\Data.csproj.AssemblyReference.cache
+C:\proyectos\New folder (2)\BackEnd\Data\obj\Release\net8.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos\New folder (2)\BackEnd\Data\obj\Release\net8.0\Data.AssemblyInfoInputs.cache
+C:\proyectos\New folder (2)\BackEnd\Data\obj\Release\net8.0\Data.AssemblyInfo.cs
+C:\proyectos\New folder (2)\BackEnd\Data\obj\Release\net8.0\Data.csproj.CoreCompileInputs.cache
+C:\proyectos\New folder (2)\BackEnd\Data\obj\Release\net8.0\Data.dll
+C:\proyectos\New folder (2)\BackEnd\Data\obj\Release\net8.0\refint\Data.dll
+C:\proyectos\New folder (2)\BackEnd\Data\obj\Release\net8.0\Data.pdb
+C:\proyectos\New folder (2)\BackEnd\Data\obj\Release\net8.0\Data.genruntimeconfig.cache
+C:\proyectos\New folder (2)\BackEnd\Data\obj\Release\net8.0\ref\Data.dll

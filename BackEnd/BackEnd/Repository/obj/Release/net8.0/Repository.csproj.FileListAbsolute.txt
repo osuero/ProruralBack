@@ -1,0 +1,15 @@
+C:\proyectos\New folder (2)\BackEnd\Repository\bin\Release\net8.0\Repository.deps.json
+C:\proyectos\New folder (2)\BackEnd\Repository\bin\Release\net8.0\Repository.dll
+C:\proyectos\New folder (2)\BackEnd\Repository\bin\Release\net8.0\Repository.pdb
+C:\proyectos\New folder (2)\BackEnd\Repository\bin\Release\net8.0\Data.dll
+C:\proyectos\New folder (2)\BackEnd\Repository\bin\Release\net8.0\Data.pdb
+C:\proyectos\New folder (2)\BackEnd\Repository\obj\Release\net8.0\Repository.csproj.AssemblyReference.cache
+C:\proyectos\New folder (2)\BackEnd\Repository\obj\Release\net8.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos\New folder (2)\BackEnd\Repository\obj\Release\net8.0\Repository.AssemblyInfoInputs.cache
+C:\proyectos\New folder (2)\BackEnd\Repository\obj\Release\net8.0\Repository.AssemblyInfo.cs
+C:\proyectos\New folder (2)\BackEnd\Repository\obj\Release\net8.0\Repository.csproj.CoreCompileInputs.cache
+C:\proyectos\New folder (2)\BackEnd\Repository\obj\Release\net8.0\Repository.csproj.CopyComplete
+C:\proyectos\New folder (2)\BackEnd\Repository\obj\Release\net8.0\Repository.dll
+C:\proyectos\New folder (2)\BackEnd\Repository\obj\Release\net8.0\refint\Repository.dll
+C:\proyectos\New folder (2)\BackEnd\Repository\obj\Release\net8.0\Repository.pdb
+C:\proyectos\New folder (2)\BackEnd\Repository\obj\Release\net8.0\ref\Repository.dll
